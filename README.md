@@ -11,5 +11,8 @@ https://github.com/Gawasinspire/Day5_striveschool/issues/4
 <hr>
 
 Forked repo with Readme changed
-<ADD THIS>
+https://github.com/Tomjohnsonellis/python-resources-2019
+
+Thanks for the peer review!
+-Tom
 
